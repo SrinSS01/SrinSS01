@@ -5,11 +5,11 @@
 - and I like coding in Java
 ### Connect with me:
 
-[![website](img/youtube-light.svg)](https://youtube.com/srinss01#gh-light-mode-only)
-[![website](img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](img/youtube-light.svg)](https://youtube.com/srinmeow#gh-light-mode-only)
+[![website](img/youtube-dark.svg)](https://youtube.com/srinmeow#gh-dark-mode-only)
 &nbsp;&nbsp; 
-[![website](img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](img/twitter-light.svg)](https://twitter.com/srinss01#gh-light-mode-only)
+[![website](img/twitter-dark.svg)](https://twitter.com/srinss01#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](img/discord-light.svg)](https://discordapp.com/users/654394128108355594#gh-light-mode-only)
 [![website](img/discord-dark.svg)](https://discordapp.com/users/654394128108355594#gh-dark-mode-only)
