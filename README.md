@@ -41,4 +41,4 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrinSS01&langs_count=8&layout=compact&theme=dark&bg_color=24,000000,3b0202,090934&icon_color=876180&title_color=BD87B3&hide_border=true)
 
 [youtube]: https://www.youtube.com/srinmeow
-[website]: https://codeSTACKr.com
+[website]: https://wwe.youtube.com/srinmeow
