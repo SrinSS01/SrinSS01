@@ -11,8 +11,8 @@
 [![website](img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](img/discord-light.svg)](https://discordapp.com/users/654394128108355594)
-[![website](img/discord-dark.svg)](https://discordapp.com/users/654394128108355594)
+[![website](img/discord-light.svg)](https://discordapp.com/users/654394128108355594#gh-light-mode-only)
+[![website](img/discord-dark.svg)](https://discordapp.com/users/654394128108355594#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Languages and Tools I use:
