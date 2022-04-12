@@ -37,10 +37,16 @@
 
 ---
 
-![Srin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrinSS01&count_private=true&show_icons=true&theme=dark&bg_color=24,000000,3b0202,090934&icon_color=876180&title_color=BD87B3&hide_border=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="centre" alt="Srin's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SrinSS01&&count_private=true&show_icons=true&theme=dark&bg_color=24,000000,3b0202,090934&icon_color=876180&title_color=BD87B3&hide_border=true"/>
+</a>
 
+<a href="https://github.com/anuraghazra/convoychat">
+    <img align="centre" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrinSS01&langs_count=10&layout=compact&theme=dark&bg_color=24,000000,3b0202,090934&icon_color=876180&title_color=BD87B3&hide_border=true"/>
+</a>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrinSS01&layout=compact&theme=dark&bg_color=24,000000,3b0202,090934&icon_color=876180&title_color=BD87B3&hide_border=true)
+[//]: # (![Srin's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=SrinSS01&&count_private=true&show_icons=true&theme=dark&bg_color=24,000000,3b0202,090934&icon_color=876180&title_color=BD87B3&hide_border=true&#41;)
+[//]: # (![Most Used Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=SrinSS01&langs_count=10&layout=compact&theme=dark&bg_color=24,000000,3b0202,090934&icon_color=876180&title_color=BD87B3&hide_border=true&#41;)
 
 [youtube]: https://www.youtube.com/srinmeow
 [website]: https://codeSTACKr.com
