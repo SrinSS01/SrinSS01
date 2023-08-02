@@ -1,6 +1,10 @@
 ## Hey there! I'm [srin][youtube]👋
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCq0yiDc5vmZUrPdjphXH3Ag?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/srinss01?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsrinss01&screen_name=srinss01) 
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCq0yiDc5vmZUrPdjphXH3Ag?logo=youtube&logoColor=red&style=for-the-badge)][youtube]  
+[![Twitter Follow](https://img.shields.io/twitter/follow/srinss01?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsrinss01&screen_name=srinss01)  
+![intellij](https://api.statusbadges.me/badge/intellij/654394128108355594)  
+[![spotify](https://api.statusbadges.me/badge/spotify/654394128108355594)](https://api.statusbadges.me/openspotify/654394128108355594)  
+![status](https://api.statusbadges.me/badge/status/654394128108355594?simple=true)  
+![playing](https://api.statusbadges.me/badge/playing/654394128108355594)  
 - I prefer coding in Java
 ### Connect with me:
 
